@@ -1,0 +1,5 @@
+microservice:
+  student-service:
+    endpoints:
+      endpoint:
+        uri: http://gateway-service/hostel/rooms/allotRoom?studentId=
