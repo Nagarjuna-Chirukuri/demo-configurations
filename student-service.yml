@@ -3,4 +3,4 @@ microservice:
     endpoints:
       endpoint:
         uri:
-          allot-room: http://gateway-service/hostel/rooms/allotRoom?studentId=
+          allot-room: http://GATEWAY-SERVICE/hostel/rooms/allotRoom?studentId=
