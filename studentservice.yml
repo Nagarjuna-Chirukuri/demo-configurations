@@ -3,4 +3,4 @@ microservice:
     endpoints:
       endpoint:
         uri:
-          allot-room: http://hostel-service:8300/hostel/rooms/allotRoom
+          allot-room: http://hostelservice/hostel/rooms/allotRoom
