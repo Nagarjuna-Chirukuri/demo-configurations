@@ -1,6 +1,0 @@
-microservice:
-  student-service:
-    endpoints:
-      endpoint:
-        uri:
-          allot-room: http://hostelservice/hostel/rooms/allotRoom

@@ -1,0 +1,6 @@
+microservice:
+  student:
+    endpoints:
+      endpoint:
+        uri:
+          allot-room: http://gateway:8762/hostel/rooms/allotRoom
